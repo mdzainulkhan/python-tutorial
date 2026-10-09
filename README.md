@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Welcome to my Python Tutorial repository! This repository contains my Python learning journey, practice programs, coding examples, and projects, from beginner to advanced concepts.
 
 I'm using this repository to improve my programming skills, strengthen problem-solving abilities, and build practical Python projects.
@@ -106,3 +107,6 @@ Suggestions, feedback, and learning resources are welcome. Feel free to explore 
 This project is available for educational and learning purposes. A license can be added if and when needed.
 
 Author: Jainul Khan
+=======
+# python-tutorial
+>>>>>>> e886dc89c930257c80be7b1588d2a58a5406ef50
